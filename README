@@ -1,0 +1,1 @@
+Basic Haskell based calculator that can compute doubles with + - ^ * / operators. Uses a parser to get input and compute. Mostly used as practice for bettern understanding Monads.
